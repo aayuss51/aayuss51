@@ -27,6 +27,4 @@
 </p>
 
 
- <p align="center">
-  <img src="WhatsApp%20Image%202026-04-02%20at%2013.48.32.jpeg" width="250" style="border-radius: 20px;">
-</p>
+ 
