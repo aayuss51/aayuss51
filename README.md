@@ -3,32 +3,33 @@ Find me on Upwork : Aayush S.
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
 
-## 🛠️ Tech Stack
 
-### 💻 Core Development
+## 🚀 My Tech Stack
+
+### 💻 Languages & Frontend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,tailwind,react,nodejs,firebase" alt="Core Stack" />
-  </a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
-### 🛒 E-commerce & CMS Platforms
+### ⚙️ Backend & Infrastructure
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=shopify,wix" alt="Platforms" />
-  </a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-### 🤖 AI-Powered Workflow
+### 🛠️ Low-Code & Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,cursor,gemini" alt="AI Tools" />
-  </a>
+  <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-### ⚙️ IDEs & Deployment
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,vercel,netlify" alt="Tools & Deployment" />
-  </a>
-</p>
+---
+
+### 📊 Alternative: Minimalist Grid
+If you prefer a more compact, modern look, use these high-quality icons:
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,firebase,supabase,tailwind,wix,vercel,github,figma)](https://skillicons.dev)
+  
