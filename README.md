@@ -31,24 +31,6 @@
 
 <div align="center">
 
-<img src="WhatsApp%20Image%202026-04-02%20at%2013.48.32.jpeg" width="180" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);">
-
-# Socials 
-
-
-<a href="https://instagram.com/aayusss_sapkota">
-  <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://x.com/aayusss_sapkota">
-  <img src="https://img.shields.io/static/v1?label=&message=X&color=000000&style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="mailto:aayushsapkota996@gmail.com">
-  <img src="https://img.shields.io/static/v1?label=&message=Email&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/>
-
-</div>
 
 
 
