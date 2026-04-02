@@ -7,6 +7,8 @@
 
 ##  My Tech Stack
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 ###  Languages & Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -21,7 +23,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###  Low-Code & Tools
 <p align="left">
