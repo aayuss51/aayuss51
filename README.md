@@ -27,6 +27,6 @@
 </p>
 
 
-  <p align="right">
-  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/DragonBall/Goku.png" width="200" alt="Goku" />
+ <p align="center">
+  <img src="WhatsApp%20Image%202026-04-02%20at%2013.48.32.jpeg" width="250" style="border-radius: 20px;">
 </p>
