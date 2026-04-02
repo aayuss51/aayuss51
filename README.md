@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 ###  Low-Code & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
