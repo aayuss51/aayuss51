@@ -1,4 +1,4 @@
-## Find me on Upwork : Aayush S.
+## ༄ཨཱཡུཥ།
 <div align="Center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
