@@ -23,24 +23,32 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/aayusss_sapkota" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://x.com/aayusss_sapkota" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="mailto:aayushsapkota996@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-
 ###  Low-Code & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
+
+<div align="center">
+
+<img src="WhatsApp%20Image%202026-04-02%20at%2013.48.32.jpeg" width="180" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);">
+
+# Socials 
+
+
+<a href="https://instagram.com/aayusss_sapkota">
+  <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://x.com/aayusss_sapkota">
+  <img src="https://img.shields.io/static/v1?label=&message=X&color=000000&style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="mailto:aayushsapkota996@gmail.com">
+  <img src="https://img.shields.io/static/v1?label=&message=Email&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/>
+
+</div>
 
 
 
