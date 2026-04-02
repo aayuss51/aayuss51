@@ -1,4 +1,4 @@
-Find me on Upwork : Aayush S.
+## Find me on Upwork : Aayush S.
 <div align="Center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
@@ -25,11 +25,4 @@ Find me on Upwork : Aayush S.
   <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
-
----
-
-### 📊 Alternative: Minimalist Grid
-If you prefer a more compact, modern look, use these high-quality icons:
-
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,firebase,supabase,tailwind,wix,vercel,github,figma)](https://skillicons.dev)
   
