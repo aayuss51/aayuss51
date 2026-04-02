@@ -25,4 +25,8 @@
   <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
-  
+
+
+  <p align="right">
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/DragonBall/Goku.png" width="200" alt="Goku" />
+</p>
