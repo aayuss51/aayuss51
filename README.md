@@ -1,4 +1,6 @@
-## ༄ཨཱཡུཥ། : https://about-meeee.vercel.app
+## ༄ཨཱཡུཥ། 
+
+About Meee : https://about-meeee.vercel.app
 
 <div align="Center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
