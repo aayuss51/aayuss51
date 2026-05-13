@@ -5,13 +5,6 @@
 </div>
 
 
-
-## 🏆 Winnings haha frfr
-![](https://github-profile-trophy.vercel.app/?username=Abhishek-sard&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-
 ##  My Tech Stack
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
